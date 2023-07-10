@@ -64,3 +64,10 @@ urllib3==1.25.10
 xlrd==1.2.0
 zipp==3.1.0
 pyfiglet==0.8.post1
+googletrans==4.0.0-rc1
+nltk==3.8.1
+keybert==0.7.0
+selenium==4.10.0
+webdriver-manager==3.8.6
+clean-text==0.6.0
+fasttext==0.9.2

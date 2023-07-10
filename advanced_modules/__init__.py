@@ -6,5 +6,6 @@ from advanced_modules import lv2_os_mft_history_analyzer
 from advanced_modules import lv2_os_usage_history_analyzer
 from advanced_modules import lv2_communication_analyzer
 from advanced_modules import lv2_timeline_analyzer
+from advanced_modules import lv2_url_history_analyzer
 
 # Register plugins.
